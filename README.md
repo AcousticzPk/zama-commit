@@ -1,2 +1,1 @@
-# zama-commit
-zama-commit
+# Project Helper CLI
